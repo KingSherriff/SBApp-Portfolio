@@ -46,7 +46,7 @@ The private repository uses GitHub Actions to run `flutter analyze` and `flutter
 - Add multi-user support
 
 ## 📬 Contact
-- **Email**: ysherriff.kadiri@outlook.com
+- **Email**: sherriff.kadiri@outlook.com
 - **LinkedIn**: [linkedin.com/in/sherriff-kadiri/](https://www.linkedin.com/in/sherriff-kadiri/)
 - **GitHub**: [https://github.com/KingSherriff](https://github.com/KingSherriff)
 
